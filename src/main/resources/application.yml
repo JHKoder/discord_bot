@@ -2,12 +2,12 @@ server:
   port: 8089
 
 discord:
-  token: MTEzMzcyMDg1NDk3OTY5MDUzNg.GGnEo5.Yd39o8T_-i-sTDGdNlIIuCbF8xWl6palr_ta4k
+  token: private
 
 chat-gpt:
   model: gpt-3.5-turbo
   uri: https://api.openai.com/v1/chat/completions
-  token-3.5: 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
+  token-3.5: private
 
 spring:
   datasource:
